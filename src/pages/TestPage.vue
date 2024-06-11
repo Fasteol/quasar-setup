@@ -1,5 +1,6 @@
 <template>
-  <div class="font-poppins">test</div>
+  <div>test</div>
+  <div>est</div>
 </template>
 
 <script>
