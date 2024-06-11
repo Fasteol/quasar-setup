@@ -1,5 +1,5 @@
 <template>
-  <div>test</div>
+  <div class="font-poppins">test</div>
 </template>
 
 <script>
